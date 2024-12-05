@@ -14,7 +14,9 @@
 
 ## installation
 
-~~hana for vscode can be downloaded from the vscode marketplace~~ soon™
+hana for vscode can be easily installed from the vscode marketplace
+
+[![](https://img.shields.io/badge/install-hana%20for%20vscode-blue?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=itswhisp.hana)
 
 ## install manually
 
