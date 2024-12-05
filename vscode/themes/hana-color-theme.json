@@ -14,8 +14,9 @@
         "foreground": "#d6dae1",
         "disabledForeground": "#53575f",
 
+        "menu.border": "#313030",
         "menu.foreground": "#d6dae1",
-        "menu.background": "#1F1E1E",
+        "menu.background": "#121212",
         "menu.selectionForeground": "#121212",
         "menu.separatorBackground": "#1F1E1E",
         "menu.selectionBackground": "#ffb4ef",
