@@ -1,0 +1,33 @@
+{
+    "name": "hana",
+    "icon": "icon.png",
+    "displayName": "hana",
+    "description": "hana is a vscode theme with soft colors",
+    "publisher": "itswhisp",
+    "version": "0.0.1",
+    "license": "MIT",
+    "author": {
+        "name": "itswhisp",
+        "url": "https://github.com/itswhisp"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/itswhisp/hana",
+        "directory": "vscode"
+    },
+    "engines": {
+        "vscode": "^1.95.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "hana",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hana-color-theme.json"
+            }
+        ]
+    }
+}
