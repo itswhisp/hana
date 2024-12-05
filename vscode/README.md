@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="icon.png" alt="hana icon" height="80" width="80" />
+    <img
+    src="https://raw.githubusercontent.com/itswhisp/hana/refs/heads/main/vscode/icon.png"
+    alt="hana icon" height="80" width="80" />
     <h3>
         hana for vscode
     </h3>
@@ -10,7 +12,7 @@
 
 ## preview
 
-![](preview.png)
+![](https://raw.githubusercontent.com/itswhisp/hana/refs/heads/main/vscode/preview.png)
 
 ## installation
 
@@ -22,8 +24,8 @@ hana for vscode can be easily installed from the vscode marketplace
 
 ### prerequisites
 
-- the `vsce` npm package should be previously installed in your system. to do
-so, run `npm install -g @vscode/vsce`
+-   the `vsce` npm package should be previously installed in your system. to do
+    so, run `npm install -g @vscode/vsce`
 
 if you wish to manually install the theme yourself. after cloning the
 repository, simply run `vsce package`, which will package the extension in a
