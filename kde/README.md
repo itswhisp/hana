@@ -20,6 +20,11 @@ the `.colors` file and install it through the system settings app
 if you prefer to install it manually, you can do so by copying the `.colors`
 file to your local `~/.local/share/color-schemes/` directory
 
+## note
+
+hana for kde does not come with any custom styles or window decorations, it only
+comes as a color scheme
+
 ## requirements
 
 this color scheme was made with and tested using kde plasma 6. while
