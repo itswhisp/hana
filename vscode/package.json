@@ -1,8 +1,8 @@
 {
     "name": "hana",
     "icon": "icon.png",
-    "displayName": "hana",
-    "description": "hana is a vscode theme with soft colors",
+    "displayName": "Hana",
+    "description": "A soft dark theme",
     "publisher": "itswhisp",
     "version": "0.1.0",
     "license": "MIT",
