@@ -1,5 +1,5 @@
 <div align="center">
-    <!-- <img src="icon.svg" alt="hana icon" height="80" width="80" /> -->
+    <img src="icon.svg" alt="hana icon" height="80" width="80" />
     <h3>
         hana
     </h3>
