@@ -12,6 +12,11 @@
 
 ![](preview.png)
 
+### note
+
+hana for kde does not come with any custom styles or window decorations, it only
+comes as a color scheme
+
 ## install
 
 in order to install hana as a color scheme in your kde system, simply download
@@ -20,13 +25,8 @@ the `.colors` file and install it through the system settings app
 if you prefer to install it manually, you can do so by copying the `.colors`
 file to your local `~/.local/share/color-schemes/` directory
 
-## note
-
-hana for kde does not come with any custom styles or window decorations, it only
-comes as a color scheme
-
 ## requirements
 
 this color scheme was made with and tested using kde plasma 6. while
-compatibility for plasma 5 has not been tested, it *may* work. however, they
-arent oficially supported
+compatibility for plasma 5 has not been tested, it *may* work. however, it isnt
+oficially supported
