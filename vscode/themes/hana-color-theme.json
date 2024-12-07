@@ -159,6 +159,10 @@
         "editorWarning.foreground": "#ffc37f",
         "editorInfo.foreground": "#9ebdff",
 
+        "textPreformat.background": "#1F1E1E",
+        "textPreformat.foreground": "#d6dae1",
+        "textCodeBlock.background": "#121212",
+
         "terminal.background": "#121212",
         "terminal.foreground": "#d6dae1",
         "terminal.dropBackground": "#ffb4ef10",
